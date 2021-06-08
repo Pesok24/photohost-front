@@ -1,0 +1,19 @@
+.image-container {
+  display: flex;
+  height: auto;
+  width: 100%;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-content: space-around;
+}
+
+.image-block {
+  margin-bottom: 7%;
+  margin-top: 4%;
+  text-align: center;
+}
+
+.image-button {
+  background-color: red !important;
+  border-color: red !important;
+}
